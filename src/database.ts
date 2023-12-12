@@ -8,6 +8,9 @@ const client: Client = new Client({
   host: process.env.DB_HOST,
   database: process.env.DB_NAME,
   port: Number(process.env.DB_PORT) || 5432,
+  ssl:{
+    rejectUnauthorized: false
+  }
 });
 
 const startDatabase = async (): Promise<void> => {
