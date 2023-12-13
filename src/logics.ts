@@ -24,7 +24,7 @@ const create = (req: Request, res: Response): void => {
   const options = {
     hostname: process.env.API,
     port: 443,
-    path: process.env.PATH,
+    path: process.env.API_PATH,
     method: "POST",
     headers: {
       "Content-Type": "application/json",
