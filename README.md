@@ -57,4 +57,4 @@ Se tiver dúvidas ou precisar de mais informações, sinta-se à vontade para en
 
 --- 
 
-Este projeto faz parte do Bootcamp de Desenvolvimento Fullstack na Kenzie Academy.
+"Consagre ao Senhor tudo o que você faz, e os seus planos serão bem-sucedidos."
