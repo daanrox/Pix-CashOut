@@ -16,6 +16,10 @@ A API de Cash Out via Pix oferece a capacidade de realizar resgates de valores a
 
 - **Listagem de Chaves:** A rota GET `/read` foi implementada para listar todas as chaves que solicitaram o resgate do Pix, permitindo uma visão geral das transações realizadas.
 
+# Doação
+
+Para fazer uma doação em agradecimento pelo projeto! Acesse: [https://roxcheckout.shop](https://roxcheckout.shop)
+
 
 ## Tecnologias Utilizadas
 
