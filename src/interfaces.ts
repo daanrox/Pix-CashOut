@@ -4,4 +4,4 @@ interface Key {
   createdAt: Date;
 }
 
-export { Key };
+export {Key};
